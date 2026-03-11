@@ -101,11 +101,11 @@ gpu_training_metrics.csv
 ```
 Simulated-Multi-GPU-CNN-Training
 │
-├── train.py
-├── gpu_training_metrics.csv
+├── training_notebook.ipynb
 ├── batch_time_graph.png
 ├── gpu_memory_graph.png
 ├── loss_curve.png
+├── gpu_training_metrics.csv
 ├── requirements.txt
 └── README.md
 ```
