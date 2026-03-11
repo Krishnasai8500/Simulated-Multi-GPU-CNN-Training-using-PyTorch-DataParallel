@@ -1,5 +1,10 @@
 # Simulated Multi-GPU CNN Training using PyTorch DataParallel
 
+## Run Notebook
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Krishnasai8500/Simulated-Multi-GPU-CNN-Training-using-PyTorch-DataParallel/blob/main/MultiGpu.ipynb)
+
+
 ## Project Overview
 
 This project demonstrates a scalable deep learning training pipeline using **PyTorch DataParallel** to simulate multi-GPU training. The model is trained on the **CIFAR-10 dataset**, and GPU performance metrics such as **memory usage and batch training time** are monitored during training.
